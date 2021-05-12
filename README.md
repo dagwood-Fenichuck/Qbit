@@ -1,4 +1,4 @@
-![Optional Text](../master/image/Qbit.png)
+![Optional Text](../main/img/Qbit.png)
 
 
 <h3>BOUNTIES Payable:  Devs check it out email wordupseo@aol.com Quote BOUNTY Available.
@@ -6,19 +6,17 @@ Community help welcomed and always needed so let us know who you are and what yo
 We believe in sharing and rewarding Community helpers so Dive in and claim a bounty its gona be worth your time and effort.
 
 <h2>DEV HELP BOUNTY</h2><br>
-<h3>60,000 Qbit – We need some help from the community Currently we looking for someone to implement the API for our Block explorer and wallet,
-The wallet was proton and forked from Turtlecoin if you can help, Contact myhdisdead@  use contact form at bottom of page on (https://qbit.money/)</h3>
+<h3>40000 Qbit  BOUNTY– We need some help from the community Currently we looking for someone to implement the API for our Block explorer,
+if you can help, Contact myhdisdead@  use Telegram (https://t.me/Qbitcurrency) [Qbitcurrency] or use contact form at bottom of page on (https://qbit.money/)</h3>
 
-Thanks to dagwood-fenichuck for Tower updates in exchange.  BOUNTY: Q10.000.00 paid to Cli Wallet 27.08.2020.
-
-#### Qbit Private Global Payment Network is a fast, and easy way to send money to friends and businesses anywhere in the world.
+#### Qbit Currency Private Global Crypto Payment Network is a fast, and easy way to send money to friends and businesses anywhere in the world.
 
 
 ### Installing QbitNetworkd
 
 To use QbitNetwork, you'll need a way to connect to the network, and a wallet to hold your funds. This software includes the zodiac command line wallet for you, compile it yourself, or you can download the ones that we have compiled for you.
 
-**Click here to download: https://github.com/k7n2g/Qbit**
+**Click here to download: https://github.com/QbitNetwork/Qbit**
 
 ### Getting Started 
 
@@ -103,7 +101,7 @@ sudo apt-get install software-properties-common
 <li><code>sudo pip install cmake</code></li>
 <li><code>export CC=gcc-8</code></li>
 <li><code>export CXX=g++-8</code></li>
-<li><code>git clone https://github.com/k7n2g/Qbit.git</code></li>
+<li><code>git clone https://github.com/QbitNetwork/Qbit.git</code></li>
 <li><code>cd Qbit</code></li>
 <li><code>mkdir build</code></li>
 <li><code>cd build</code></li>
@@ -128,7 +126,7 @@ sudo apt-get install software-properties-common
 <ul>
 <li><code>sudo apt-get install software-properties-common</code></li>    
 <li><code>sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y</code></li>
-<li><code>wget -O - http://llvm.org/apt/llvm-snapshot.gpg.key | sudo apt-key add â€“</code></li>
+<li><code>wget -O - http://llvm.org/apt/llvm-snapshot.gpg.key | sudo apt-key add -</code></li>
 </ul>
 <ul>
 <li><code>sudo apt-get update</code></li>
@@ -137,7 +135,7 @@ sudo apt-get install software-properties-common
 <li><code>sudo pip install cmake</code></li>
 <li><code>export CC=clang-6.0</code></li>
 <li><code>export CXX=clang++-6.0</code></li>
-<li><code>git clone https://github.com/k7n2g/Qbit.git </code></li>
+<li><code>git clone https://github.com/QbitNetwork/Qbit.git </code></li>
 <li><code>cd Qbit</code></li>
 <li><code>mkdir build</code></li>
 <li><code>cd build</code></li>
@@ -161,7 +159,7 @@ sudo apt-get install software-properties-common
 <li><code>./bootstrap.sh --prefix=/usr/local/</code></li>
 <li><code>./b2 -j$(nproc) -d0 install --with-system --with-filesystem --with-thread --with-date_time --with-chrono --with-regex --with-serialization --with-program_options</code></li>
 <li><code>cd ..</code></li>
-<li><code>git clone https://github.com/k7n2g/Qbit.git</code></li>
+<li><code>git clone https://github.com/QbitNetwork/Qbit.git</code></li>
 <li><code>mkdir -p qbit/build</code></li>
 <li><code>cd Qbit/build</code></li>
 <li><code>cmake3 ..</code></li>
@@ -176,7 +174,7 @@ sudo apt-get install software-properties-common
 <p><strong>Note:</strong> If you want to use clang, ensure you set the environment variables <code>CC</code> and <code>CXX</code>.
 See the ubuntu instructions for an example.</p>
 <ul>
-<li><code>git clone https://github.com/k7n2g/Qbit.git</code></li>
+<li><code>git clone https://github.com/QbitNetwork/Qbit.git</code></li>
 <li><code>cd Qbit</code></li>
 <li><code>mkdir build</code></li>
 <li><code>cd build</code></li>
@@ -206,7 +204,7 @@ See the ubuntu instructions for an example.</p>
 <li><code>ln -s /usr/local/opt/llvm@8 /usr/local/opt/llvm</code></li>
 <li><code>export CC=/usr/local/opt/llvm@8/bin/clang</code></li>
 <li><code>export CXX=/usr/local/opt/llvm@8/bin/clang++</code></li>
-<li><code>git clone https://github.com/k7n2g/Qbit.git</code></li>
+<li><code>git clone https://github.com/QbitNetwork/Qbit.git</code></li>
 <li><code>cd Qbit</code></li>
 <li><code>mkdir build</code></li>
 <li><code>cd build</code></li>
@@ -267,3 +265,12 @@ See the ubuntu instructions for an example.</p>
   </div>
 
     </div>
+Wuth Thanks to some Great Guys:
+```
+// Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
+// Copyright (c) 2014-2018, The Monero Project
+// Copyright (c) 2018-2020, The TurtleCoin Developers
+// Copyright (c) 2020-2021, Dave Brennan, k7n2g, The team at Qbit Currency
+//
+// Please see the included LICENSE file for more information.
+```
