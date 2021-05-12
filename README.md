@@ -265,7 +265,7 @@ See the ubuntu instructions for an example.</p>
   </div>
 
     </div>
-Wuth Thanks to some Great Guys:
+   With Thanks to some Great Guys:
 ```
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
 // Copyright (c) 2014-2018, The Monero Project
